@@ -1,0 +1,57 @@
+body {
+  color: #434455;
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+  letter-spacing: 2%;
+  font-size: 16px;
+}
+a {
+  text-decoration: none;
+  color: currentColor;
+  font-style: normal;
+}
+ul {
+  list-style-type: none;
+}
+.logo {
+  font-family: Raleway, sans-serif;
+  text-transform: uppercase;
+  color: #2e2f42;
+}
+.logo .accent {
+  color: #4d5ae5;
+}
+
+.nav {
+  color: #2e2f42;
+}
+/* work on */
+.hero-section {
+  font-weight: 700;
+  color: #ffffff;
+  background-color: #2e2f42;
+}
+.button {
+  color: #ffffff;
+  background-color: #4d5ae5;
+  font-weight: 500;
+}
+.title {
+  font-size: 36px;
+  color: #2e2f42;
+}
+.title-secondary {
+  color: #2e2f42;
+  font-weight: 500;
+  font-size: 20px;
+}
+.team-section {
+  background-color: #f4f4fd;
+}
+.footer {
+  color: #f4f4fd;
+  background-color: #2e2f42;
+}
+.accent-footer {
+  color: #f4f4fd;
+}
