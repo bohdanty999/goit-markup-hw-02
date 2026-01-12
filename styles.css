@@ -16,11 +16,14 @@ a:focus {
 }
 ul {
   list-style-type: none;
+  line-height: 1.5;
 }
 .logo {
   font-family: Raleway, sans-serif;
   text-transform: uppercase;
   color: #2e2f42;
+  font-size: 16px;
+  line-height: 1.16;
 }
 .logo .accent {
   color: #4d5ae5;
@@ -34,6 +37,7 @@ ul {
   font-weight: 700;
   color: #ffffff;
   background-color: #2e2f42;
+  font-size: 56px;
   line-height: 1.1;
 }
 .button {
