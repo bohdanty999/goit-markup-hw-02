@@ -23,7 +23,7 @@ ul {
   font-family: Raleway, sans-serif;
   text-transform: uppercase;
   color: #2e2f42;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 700;
   line-height: 1.16;
   letter-spacing: 0.48px;
@@ -43,15 +43,16 @@ ul {
 .hero-title {
   font-weight: 700;
   font-size: 56px;
-  line-height: 1;
+  line-height: 1.07;
   text-align: center;
+  letter-spacing: 0.32px;
 }
 .button {
   color: #ffffff;
   background-color: #4d5ae5;
   font-weight: 500;
   cursor: pointer;
-  letter-spacing: 0.48px;
+  letter-spacing: 0.64px;
 }
 .button:hover,
 .button:focus {
@@ -62,22 +63,33 @@ ul {
   color: #2e2f42;
   line-height: 1.1;
   text-align: center;
+  font-weight: 700;
+  letter-spacing: 0.32px;
 }
 .title-secondary {
   color: #2e2f42;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
-  text-align: center;
+  letter-spacing: 0.32px;
 }
 .team-section {
   background-color: #f4f4fd;
 }
+
+.team-element {
+  background-color: #ffffff;
+}
 .team-text {
   text-align: center;
 }
-.team-element {
-  background-color: #ffffff;
+.team-title {
+  text-align: center;
+  color: #2e2f42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.32px;
 }
 
 .footer {
